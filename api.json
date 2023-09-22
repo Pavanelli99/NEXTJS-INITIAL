@@ -1,0 +1,19 @@
+{
+    "stocks": [
+        {
+            "id": 1,
+            "name": "Eduardo",
+            "price": 12
+        },
+        {
+            "id": 2,
+            "name": "zeze",
+            "price": 14
+        },
+        {
+            "id": 3,
+            "name": "Joao",
+            "price": 15
+        }
+    ]
+}
